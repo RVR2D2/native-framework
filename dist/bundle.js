@@ -1,0 +1,1 @@
+(()=>{eval("console.log('Hello')\r\n\r\ndocument.querySelector('h1').textContent = 'Working!'\n\n//# sourceURL=webpack:///./index.js?")})();
