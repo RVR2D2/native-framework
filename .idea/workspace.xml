@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38ba1c2-7fbc-4191-aad7-52311bda8adf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/common/app.header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/framework/tools/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/not-found.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/home-page.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/tabs-page.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/tools/router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/core/companent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/companent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/common/app.header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/common/app.header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/framework/core/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/module.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/framework/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/tools/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/tools/util.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +51,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="npm.start">
@@ -86,7 +91,10 @@
       <option name="presentableId" value="Default" />
       <updated>1609758984066</updated>
       <workItem from="1609758988972" duration="9079000" />
-      <workItem from="1609771158515" duration="3530000" />
+      <workItem from="1609771158515" duration="3707000" />
+      <workItem from="1609858065199" duration="4519000" />
+      <workItem from="1609862697554" duration="13000" />
+      <workItem from="1609863171665" duration="1003000" />
     </task>
     <servers />
   </component>
