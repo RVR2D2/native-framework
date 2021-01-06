@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38ba1c2-7fbc-4191-aad7-52311bda8adf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/component/render-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/routing/routing.module.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/common/app.header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/common/app.header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/common/not-found.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/common/not-found.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/pages/home-page.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/home-page.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/pages/tabs-page.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/tabs-page.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/core/companent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/companent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/core/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/functions/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/core/companent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/component/companent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/framework/core/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/tools/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/tools/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/tools/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/routing/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/tools/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/tools/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +57,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\poom_\OneDrive\Рабочий стол\CODE\native-framework\src\framework\core\functions" />
+      <recent name="C:\Users\poom_\OneDrive\Рабочий стол\CODE\native-framework\src\framework\core\routing" />
+      <recent name="C:\Users\poom_\OneDrive\Рабочий стол\CODE\native-framework\src\framework\core\component" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.start">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -87,7 +105,8 @@
       <workItem from="1609771158515" duration="3707000" />
       <workItem from="1609858065199" duration="4519000" />
       <workItem from="1609862697554" duration="13000" />
-      <workItem from="1609863171665" duration="5572000" />
+      <workItem from="1609863171665" duration="5644000" />
+      <workItem from="1609939161086" duration="5571000" />
     </task>
     <servers />
   </component>
