@@ -24,7 +24,7 @@ export const tabsPageComponent = new TabsPageComponent({
     template: `
     <div class="row">
         <div class="col s6 offset-s3">
-            <ul class="collapsible popout" style="margin-top: 30px;">
+            <ul class="collapsible popout collapsible-accordion">
                   <li class="js-tab">
                     <div class="collapsible-header" tabindex="0">
                       <i class="material-icons">filter_drama</i>First</div>
@@ -55,5 +55,9 @@ export const tabsPageComponent = new TabsPageComponent({
                 </ul>
         </div>     
     </div>       
+    `,
+    styles: `
+        .collapsible-accordion { margin-top: 30px; }
+        .collapsible li.active .collapsible-body { display: block; }
     `
 })
