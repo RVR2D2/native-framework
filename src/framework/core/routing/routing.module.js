@@ -1,4 +1,4 @@
-import {_, router} from "framework"
+import {$, _, router} from "framework"
 import {renderComponent} from "framework/core/component/render-component"
 
 export class RoutingModule {
@@ -20,6 +20,6 @@ function renderRoute() {
         route = this.routes.find(r => r.path === '**')
     }
 
-    document.querySelector('router-outlet').innerHTML = `<${route.component.selector}></${route.component.selector}>`
+    $('router-outlet').html(`<${route.component.selector}></${route.component.selector}>`)
     renderComponent(route.component)
 }
