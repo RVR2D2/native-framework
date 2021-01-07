@@ -2,8 +2,9 @@ import {$, _, router} from "framework"
 import {renderComponent} from "framework/core/component/render-component"
 
 export class RoutingModule {
-    constructor(routes) {
+    constructor(routes, dispatcher) {
         this.routes = routes
+        this.dispatcher = dispatcher
     }
 
     init() {
@@ -22,4 +23,6 @@ function renderRoute() {
 
     $('router-outlet').html(`<${route.component.selector}></${route.component.selector}>`)
     renderComponent(route.component)
+
+    this.dispatcher.emit('routing.change-page')
 }
