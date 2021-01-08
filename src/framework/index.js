@@ -1,6 +1,7 @@
 import { Module as WFMModule } from './core/module'
 import { Component as WFMComponent} from './core/component/companent'
 import { Directive as WFMDirective} from './core/derectives/directive'
+import { Pipe as WFMPipe} from './core/pipes/pipe'
 import { bootstrap } from './core/functions/bootstrap'
 import { _ } from "./tools/util"
 import { $ } from "./tools/dom"
@@ -11,6 +12,7 @@ export {
     WFMModule,
     WFMComponent,
     WFMDirective,
+    WFMPipe,
     EventEmitter,
     bootstrap,
     _,

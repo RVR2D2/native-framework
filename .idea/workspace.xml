@@ -2,21 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38ba1c2-7fbc-4191-aad7-52311bda8adf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/pages/directive-page.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/directives/hover.directive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/framework/core/derectives/directive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/framework/core/derectives/init-directives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/framework/tools/event-emitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/pipes-page.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/pipes/multi.pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/pipes/apply-pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/pipes/init-pipes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/pipes/parse-pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/pipes/pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/core/pipes/pipes-factory.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/common/app.header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/app.header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/common/not-found.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/not-found.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/app.header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/app.header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/core/component/companent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/component/companent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/framework/core/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/core/routing/init-routing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/routing/init-routing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/core/routing/routing.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/core/routing/routing.module.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/framework/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/tools/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/tools/util.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,8 @@
       <workItem from="1609858065199" duration="4519000" />
       <workItem from="1609862697554" duration="13000" />
       <workItem from="1609863171665" duration="5644000" />
-      <workItem from="1609939161086" duration="21521000" />
+      <workItem from="1609939161086" duration="21687000" />
+      <workItem from="1610114953446" duration="4740000" />
     </task>
     <servers />
   </component>
